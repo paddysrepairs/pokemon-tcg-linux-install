@@ -1,7 +1,7 @@
 # Pokemon TCG LINUX Install
 An overview on how to get Pokemon TCG live on Linux.<p align="center">
 <img src="https://d1i787aglh9bmb.cloudfront.net/assets/img/tcgl/logos/en-us/logo.png"/>
-<img src="https://images.vexels.com/media/users/3/140692/isolated/svg/72d1f12edf758d24f5b6db73bac4f297.svg"/>
+<img width="560" height="303" alt="Linux_Logo_Small" src="https://github.com/user-attachments/assets/08f883dd-09db-4f64-80ac-6e11fbca636e" />
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
