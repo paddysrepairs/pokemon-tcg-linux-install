@@ -1,11 +1,10 @@
 # Pokemon TCG LINUX Install
 An overview on how to get Pokemon TCG live on Linux.<p align="center">
-<img src="https://d1i787aglh9bmb.cloudfront.net/assets/img/tcgl/logos/en-us/logo.png"/>
+<img src="https://d1i787aglh9bmb.cloudfront.net/assets/img/tcgl/logos/en-us/logo.png"/><img src="<img src="https://d1i787aglh9bmb.cloudfront.net/assets/img/tcgl/logos/en-us/logo.png"/>"/>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
-
 
 <h2>Video Demonstration</h2>
 
