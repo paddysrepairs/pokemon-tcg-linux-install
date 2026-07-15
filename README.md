@@ -4,12 +4,12 @@ An overview on how to get Pokemon TCG live on Linux.<p align="center">
 <img width="560" height="303" alt="Linux_Logo_Small" src="https://github.com/user-attachments/assets/08f883dd-09db-4f64-80ac-6e11fbca636e" />
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Forwarding the TCG live client through Heroic Launcher on Linux Nobara</h1>
+This tutorial outlines how to forward the Windows Client for Pokemon TCG Live through a compatibility launcher called "Heroic Game Launcher" to get the game running on Linux operating systems. .<br />
 
 <h2>Video Demonstration</h2>
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/sLdnG7Roxls?si=_QvTlR4x3Wt0zxPj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=sLdnG7Roxls&t=129s
 
 <h2>Environments and Technologies Used</h2>
 
