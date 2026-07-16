@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=sLdnG7Roxls&t=129s
 - Step 15 Game successfully launched! Have fun. 
 
 <h2>Configuration Steps</h2>
-<h2>Heroic Install (Flathub distro Dependent)</h2>
+<h2>Step 1 Heroic Install (Flathub distro Dependent)</h2>
 <p>
 <<img width="1920" height="1080" alt="Step_1_Flathub_Install_Konsole" src="https://github.com/user-attachments/assets/928cbb9b-ce82-43f8-a9f9-c6e537e967e0" />
 <img width="1920" height="1080" alt="Step_1_Flathub_Install_Konsole_2" src="https://github.com/user-attachments/assets/3aef3ec8-1ea0-4c00-b09f-d159561b8e48" />
@@ -52,12 +52,12 @@ I highly encourage anyone who is on Nobara 44 to just use Heroic Launcher that s
 If you happen to need to install Heroic. You may need to install Flathub or Flatpost versions to install the game. (Distro dependent) the example shown is one method of installing the Heroic Launcher app.
 </p>
 <br />
-
+<h2>Step 2 Launch Heroic Launcher</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<<img width="873" height="556" alt="Step_2_Launch_Heroic" src="https://github.com/user-attachments/assets/6558b033-10ad-4313-b3cf-68eabfa3a2d7" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once Heroic is sorted out, lauch the app via the konsole or by the shortcut created in the application launcher or by the one you may have created on your desktop.
 </p>
 <br />
 
