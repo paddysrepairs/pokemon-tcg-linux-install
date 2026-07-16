@@ -13,14 +13,15 @@ https://www.youtube.com/watch?v=sLdnG7Roxls&t=129s
 
 <h2>Environments and Technologies Used</h2>
 
-- Linux Nobara 43 (Fork of Fedora)
+- Linux Nobara 44 (Fork of Fedora)
 - Heroic Games Launcher
-- Winetricks (Windows Command Launcher)
+- Wine/ Winetricks (Windows Wine Command Launcher)
 - Terminal/ Konsole
+- Proton Compatability Layers
 
 <h2>Operating Systems Used </h2>
 
-- Linux Nobara 43
+- Linux Nobara 44
 
 <h2>Total Step Index</h2>
 
@@ -43,7 +44,8 @@ https://www.youtube.com/watch?v=sLdnG7Roxls&t=129s
 <h2>Configuration Steps</h2>
 <h2>Heroic Install (Flathub distro Dependent)</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<<img width="1920" height="1080" alt="Step_1_Flathub_Install_Konsole" src="https://github.com/user-attachments/assets/928cbb9b-ce82-43f8-a9f9-c6e537e967e0" />
+<img width="1920" height="1080" alt="Step_1_Flathub_Install_Konsole_2" src="https://github.com/user-attachments/assets/3aef3ec8-1ea0-4c00-b09f-d159561b8e48" />
 </p>
 <p>
 I highly encourage anyone who is on Nobara 44 to just use Heroic Launcher that seems to be packaged with the distro upon install.*
