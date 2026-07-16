@@ -60,11 +60,11 @@ If you happen to need to install Heroic. You may need to install Flathub or Flat
 Once Heroic is sorted out, lauch the app via the konsole or by the shortcut created in the application launcher or by the one you may have created on your desktop.
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<<img width="1920" height="1080" alt="Step_3_Download_Game" src="https://github.com/user-attachments/assets/61361d53-fc1f-4db6-9aad-4f943b296e28" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Head on over to the Pokemon TCG Live site and download the client. Link below!
+https://tcg.pokemon.com/en-us/tcgl/
 </p>
 <br />
