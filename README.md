@@ -98,7 +98,7 @@ Now that the game is installed, we want to right click on the "Pokemon TCG Live"
 </p>
 After going into settings, we want to find the "Advanced" tab.
 </p>
-</p><img width="3840" height="3760" alt="Step_9_Advanced_Settings_2" src="https://github.com/user-attachments/assets/48b71410-ea02-42dc-af20-e99f00cbdf26" />
+
 </p>
 We want to go into "Environment Variables" and add the following the "Variable Name" and "Variable" Tabs.
 Variable Name= WINE_CPU_TOPOLOGY and Value= 2:0,1
