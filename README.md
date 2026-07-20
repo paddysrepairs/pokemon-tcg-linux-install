@@ -76,7 +76,7 @@ Next we are going to go to the top left in Heroic and click "Add Game" the blue 
 <img width="1920" height="1080" alt="Step_5_Installer_First" src="https://github.com/user-attachments/assets/384dc4ce-65b0-4d7a-b0c9-d90150dfb5de" />
 </p>
 Once we are into the "Add Game" section, we are going to fill out the required info for the game above. (You can add custom images at this point if you like. Then, we are going to run installer first and install the game client exacltly like you would on a Windows machine.
-<h2>Step 6, Ignore installer </h2>
+<h2>Step 6, Ignore installer Errors</h2>
 <p>
 <img width="1920" height="1080" alt="Step_6_Installer_Errors_Yes" src="https://github.com/user-attachments/assets/74bd3e58-c99e-4927-a4f3-35d3faedb2e8" />
 </p>
