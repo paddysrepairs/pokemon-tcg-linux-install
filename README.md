@@ -63,8 +63,21 @@ Once Heroic is sorted out, lauch the app via the konsole or by the shortcut crea
 <p>
 <<img width="1920" height="1080" alt="Step_3_Download_Game" src="https://github.com/user-attachments/assets/61361d53-fc1f-4db6-9aad-4f943b296e28" />
 </p>
+<h2>Step 3, Download the Game Client!</h2>
 <p>
 Head on over to the Pokemon TCG Live site and download the client. Link below!
 https://tcg.pokemon.com/en-us/tcgl/
 </p>
 <br />
+<h2>Step 4, Add Game in Heroic!</h2>
+</p>
+<p> 
+<img width="1920" height="1080" alt="Step_4_Add_Game" src="https://github.com/user-attachments/assets/5b805362-7aa4-4b26-af98-ae4698dfb814"/>
+</p>
+Next we are going to 
+<br />
+<h2>Step 5, Run Installer first in Heroic!</h2>
+</p>
+<p>
+<img width="1920" height="1080" alt="Step_5_Installer_First" src="https://github.com/user-attachments/assets/384dc4ce-65b0-4d7a-b0c9-d90150dfb5de" />
+<h2>Step 6, Ignore installer </h2>
