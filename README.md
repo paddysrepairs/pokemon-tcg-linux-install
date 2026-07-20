@@ -51,7 +51,6 @@ https://www.youtube.com/watch?v=sLdnG7Roxls&t=129s
 I highly encourage anyone who is on Nobara 44 to just use Heroic Launcher that seems to be packaged with the distro upon install.*
 If you happen to need to install Heroic. You may need to install Flathub or Flatpost versions to install the game. (Distro dependent) the example shown is one method of installing the Heroic Launcher app through the terminal
 </p>
-<br />
 <h2>Step 2 Launch Heroic Launcher</h2>
 <p>
 <<img width="873" height="556" alt="Step_2_Launch_Heroic" src="https://github.com/user-attachments/assets/6558b033-10ad-4313-b3cf-68eabfa3a2d7" />
