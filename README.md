@@ -113,3 +113,33 @@ These are important to make sure the game runs stable.
 </p>
 Once we are done with "Advanced Settings" we are going to go to "Wine" and scroll to the bottom.
 <br />
+<h2>Step 11, Open "Winetricks"</h2>
+<p>
+<img width="741" height="905" alt="Step_11_Winetricks" src="https://github.com/user-attachments/assets/d75a9ac4-6781-4532-89ed-b9d8184c2bfc" />
+</p>
+The next thing we want to access is "Winetricks" within Heroic Launcher! As highlighted, Click it to access the Wine layers.
+<img width="1065" height="905" alt="Step_11_Winetricks_2" src="https://github.com/user-attachments/assets/2445e279-9e72-4854-8f49-261fad8f3397" />
+Open the "Winetricks GUI" as shown.
+<img width="1100" height="606" alt="Step_11_Winetricks_3" src="https://github.com/user-attachments/assets/01f2acaf-b6cf-4859-b22a-34023828db30" />
+Select the "default prefix".
+<img width="1100" height="606" alt="Step_11_Winetricks_4" src="https://github.com/user-attachments/assets/9fd9a104-361b-4023-88ba-3e600bc01e42" />
+Next, run a "Wine CMD shell" as highlighted. THE NEXT STEPS ARE CRUCIAL TO GETTING THE GAME RUNNING.* Pay close attention, and be sure to leave the original command prompt you start here open until we are done.
+<br />
+<h2>Step 12, Find Original Directory of Install.</h2>
+<p>
+<img width="1920" height="1080" alt="Step_12_Copy_Directory" src="https://github.com/user-attachments/assets/be805420-f623-459d-a92b-571edc999b67" />
+<p/>
+Find where you installed the "Pokemon TCG Live" client. It should be in a similar location to what I have highlighted above under your "Home" directory.
+<p>
+<img width="534" height="362" alt="Step_12_Copy_Directory_2" src="https://github.com/user-attachments/assets/083c277b-18e5-4343-b5f8-6516f8bc32ae" />
+</p>
+type cd command to open a location like you would in Windows and middle click to paste the directory you just copied to the clipboard in your command shell! You must make sure that the directory has quotations copied at the start and finish of your pasted directory.* 
+<h2>Step 13, Launch game through Wine CMD shell</h2>
+<p>
+<img width="726" height="512" alt="Step_13_Launch_Game" src="https://github.com/user-attachments/assets/cc4a3fda-3373-4d6c-9ce1-894ecef63704" />
+</p>
+From the location we just opened in Step 12. Type in quotations "Pokemon TCG Live.exe" to launch the game client.
+<p>
+<img width="1920" height="1080" alt="Step_13_Login" src="https://github.com/user-attachments/assets/91114073-20b4-452c-b754-9daafffb3c07" />
+</p>
+After we start the game client. It will prompt you to login into "Pokemon Trainer Central" in your default chosen browser.
