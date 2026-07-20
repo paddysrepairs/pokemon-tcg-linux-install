@@ -60,7 +60,6 @@ If you happen to need to install Heroic. You may need to install Flathub or Flat
 Once Heroic is sorted out, lauch the app via the konsole or by the shortcut created in the application launcher or by the one you may have created on your desktop.
 </p>
 <br />
-<p>
 <<img width="1920" height="1080" alt="Step_3_Download_Game" src="https://github.com/user-attachments/assets/61361d53-fc1f-4db6-9aad-4f943b296e28" />
 </p>
 <h2>Step 3, Download the Game Client!</h2>
@@ -70,14 +69,36 @@ https://tcg.pokemon.com/en-us/tcgl/
 </p>
 <br />
 <h2>Step 4, Add Game in Heroic!</h2>
-</p>
-<p> 
+<p>
 <img width="1920" height="1080" alt="Step_4_Add_Game" src="https://github.com/user-attachments/assets/5b805362-7aa4-4b26-af98-ae4698dfb814"/>
 </p>
-Next we are going to 
+Next we are going to go to the top left in Heroic and click "Add Game" the blue button as you can see pictured.
 <br />
 <h2>Step 5, Run Installer first in Heroic!</h2>
-</p>
 <p>
 <img width="1920" height="1080" alt="Step_5_Installer_First" src="https://github.com/user-attachments/assets/384dc4ce-65b0-4d7a-b0c9-d90150dfb5de" />
+</p>
+Once we are into the "Add Game" section, we are going to fill out the required info for the game above. (You can add custom images at this point if you like. Then, we are going to run installer first and install the game client exacltly like you would on a Windows machine.
 <h2>Step 6, Ignore installer </h2>
+<p>
+<img width="1920" height="1080" alt="Step_6_Installer_Errors_Yes" src="https://github.com/user-attachments/assets/74bd3e58-c99e-4927-a4f3-35d3faedb2e8" />
+</p>
+While running the installer you are going to run into some "vc_redist" errors. Just click "yes" as its fine to ignore these and continue the install. 
+<br />
+<h2>Step 7, Don't Run the Game Just Yet!</h2>
+<p>
+<img width="1920" height="1080" alt="Step_7_Installer_Dont_Run" src="https://github.com/user-attachments/assets/61355ba3-dc02-4443-a8fe-7749d3527bd5" />
+</p>
+Don't run the game just yet! Click the finish button and make sure launch game is not set launched.
+<h2>Step 8, Go into Settings</h2>
+<p>
+<img width="1920" height="1080" alt="Step_8_Settings" src="https://github.com/user-attachments/assets/9fec9cf3-49be-4b4f-b056-0dde549507ac" />
+</p>
+Now that the game is installed, we want to right click on the "Pokemon TCG Live" game we just installed and go into its "Settings".
+<h2>Step 9, Go into "Advanced Settings</h2>
+<p>
+<img width="1920" height="1080" alt="Step_9_Advanced_Settings" src="https://github.com/user-attachments/assets/3b24cc8c-70d9-46dd-8309-4cc9d131ccab" />
+</p>
+After going into settings, we want to find the "Advanced" tab.
+</p><img width="3840" height="3760" alt="Step_9_Advanced_Settings_2" src="https://github.com/user-attachments/assets/48b71410-ea02-42dc-af20-e99f00cbdf26" />
+
