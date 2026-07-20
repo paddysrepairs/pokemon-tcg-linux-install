@@ -92,7 +92,7 @@ Don't run the game just yet! Click the finish button and make sure launch game i
 <img width="1920" height="1080" alt="Step_8_Settings" src="https://github.com/user-attachments/assets/9fec9cf3-49be-4b4f-b056-0dde549507ac" />
 </p>
 Now that the game is installed, we want to right click on the "Pokemon TCG Live" game we just installed and go into its "Settings".
-<h2>Step 9, Go into "Advanced Settings</h2>
+<h2>Step 9, Go into "Advanced Settings"</h2>
 <p>
 <img width="1920" height="1080" alt="Step_9_Advanced_Settings" src="https://github.com/user-attachments/assets/3b24cc8c-70d9-46dd-8309-4cc9d131ccab" />
 </p>
