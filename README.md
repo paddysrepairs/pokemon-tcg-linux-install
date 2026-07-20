@@ -100,5 +100,16 @@ Now that the game is installed, we want to right click on the "Pokemon TCG Live"
 <img width="1920" height="1080" alt="Step_9_Advanced_Settings" src="https://github.com/user-attachments/assets/3b24cc8c-70d9-46dd-8309-4cc9d131ccab" />
 </p>
 After going into settings, we want to find the "Advanced" tab.
+</p>
 </p><img width="3840" height="3760" alt="Step_9_Advanced_Settings_2" src="https://github.com/user-attachments/assets/48b71410-ea02-42dc-af20-e99f00cbdf26" />
-
+</p>
+We want to go into "Environment Variables" and add the following the "Variable Name" and "Variable" Tabs.
+Variable Name= WINE_CPU_TOPOLOGY and Value= 2:0,1
+These are important to make sure the game runs stable.
+<br />
+<h2>Step 10, Back to Wine Normal Settings</h2>
+<p>
+<img width="741" height="905" alt="Step_10_Back_to_Wine" src="https://github.com/user-attachments/assets/0005e6e5-4be7-40b2-b7a1-fdc8e693cf96" />
+</p>
+Once we are done with "Advanced Settings" we are going to go to "Wine" and scroll to the bottom.
+<br />
