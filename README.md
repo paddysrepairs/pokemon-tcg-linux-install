@@ -59,7 +59,6 @@ If you happen to need to install Heroic. You may need to install Flathub or Flat
 <p>
 Once Heroic is sorted out, lauch the app via the konsole or by the shortcut created in the application launcher or by the one you may have created on your desktop.
 </p>
-<br />
 <<img width="1920" height="1080" alt="Step_3_Download_Game" src="https://github.com/user-attachments/assets/61361d53-fc1f-4db6-9aad-4f943b296e28" />
 </p>
 <h2>Step 3, Download the Game Client!</h2>
@@ -67,7 +66,6 @@ Once Heroic is sorted out, lauch the app via the konsole or by the shortcut crea
 Head on over to the Pokemon TCG Live site and download the client. Link below!
 https://tcg.pokemon.com/en-us/tcgl/
 </p>
-<br />
 <h2>Step 4, Add Game in Heroic!</h2>
 <p>
 <img width="1920" height="1080" alt="Step_4_Add_Game" src="https://github.com/user-attachments/assets/5b805362-7aa4-4b26-af98-ae4698dfb814"/>
@@ -138,8 +136,26 @@ type cd command to open a location like you would in Windows and middle click to
 <p>
 <img width="726" height="512" alt="Step_13_Launch_Game" src="https://github.com/user-attachments/assets/cc4a3fda-3373-4d6c-9ce1-894ecef63704" />
 </p>
-From the location we just opened in Step 12. Type in quotations "Pokemon TCG Live.exe" to launch the game client.
+From the location we just opened in Step 12. Type in quotations "Pokemon TCG Live.exe" to launch the game client. Keep this instance of the game running*.
 <p>
 <img width="1920" height="1080" alt="Step_13_Login" src="https://github.com/user-attachments/assets/91114073-20b4-452c-b754-9daafffb3c07" />
 </p>
-After we start the game client. It will prompt you to login into "Pokemon Trainer Central" in your default chosen browser.
+After we start the game client. It will prompt you to login into "Pokemon Trainer Central" in your default chosen browser. Be sure to 
+<h2>Step 14, F12 Developer Tools Callback Line!</h2>
+<p>
+<img width="1920" height="1080" alt="Step_14_Callback_Line_Important" src="https://github.com/user-attachments/assets/9706382e-571c-403e-a8d5-be67da799864" />
+</p>
+This probably the most important part of the guide!* Be sure to copy and paste this entire command line found in the "Developer Tools" under the "Console" tab. You are going to now proceed to go back to you CMD shell you opened previously.
+<p>
+<img width="1920" height="1080" alt="Step_14_Callback_Line_Important_2png" src="https://github.com/user-attachments/assets/a1d930b4-d551-4a71-8217-dd89a5fbdaff" />
+In the same location you had opened previously. You are going to launch the game the exact same way as last time in quoatations. "Pokemon TCG Live.exe"
+<p>
+<img width="1920" height="1080" alt="Step_14_Callback_Line_Important_3" src="https://github.com/user-attachments/assets/daddf914-ee02-4d94-8581-a1da73c2daab" />
+</p>
+Then, you are going to middle click paste the callback line we just acquired in quotations as well right beside the command to launch the game we just executed as shown. This will launch the game a second time. If it immediately closes. That is fine, do not panic as you kept the original instance of the game you launched started and should bring you back to the game proceeding to continue to load up properly.
+<h2>Step 15, Congrats! TCG Live is Ready to Play</h2>
+<p>
+<img width="1920" height="1080" alt="Step_15_Game_Running" src="https://github.com/user-attachments/assets/ca510f9c-9244-4966-8179-f14ad7c41499" />
+</p>
+YAY! You made it to the end of the guide. If you followed everything correctly. Pokemon TCG Live should be running with no issues on your Linux Distro. Thank you everyone for following till the end of the guide. If you found it useful, be sure to let me know and sub to the YouTube Channel!
+Cheers folks and have fun!
